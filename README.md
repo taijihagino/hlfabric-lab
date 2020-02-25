@@ -1,4 +1,4 @@
-* 日本語は(こちら)[./README-ja.md]
+* 日本語は[こちら](./README-ja.md)
 
 # How blockchain can make a real difference
 Imagine every citizen had the confidence that philanthropic commitments to support societal challenges such as extreme poverty were being honored. That resources were in fact filtering down to the people with the greatest needs. That every dollar donated and spent was making a real impact. Wouldn’t a more transparent system motivate people to more readily champion worthy causes? Or better yet, inspire them to donate more themselves?
